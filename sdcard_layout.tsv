@@ -1,0 +1,5 @@
+type	size(Mib)	first-lba	partNumber
+gpt	2000	34		2
+partName		start	size	type			fileName
+Bootimx7ul		8192	65536	SYstem			bootfs.ext4
+Rootimx7ul		73728	120000	Filesystem		rootfs.ext4
